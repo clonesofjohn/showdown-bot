@@ -9,15 +9,7 @@ global debug_flag
 global username
 global password
 global showdown
-global driver
-global wait
 
-debug_flag = True
-username = 'FutureBattleBot'
-password = 'tomrobey'
-showdown = '52.24.255.105.psim.us'
-
-def debug(s):
     if debug_flag:
         print s
 
