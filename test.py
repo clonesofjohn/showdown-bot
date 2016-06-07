@@ -13,9 +13,9 @@ global driver
 global wait
 
 debug_flag = True
-username = 'zarly'
-password = 'phantom'
-showdown = 'http://play.pokemonshowdown.com'
+username = 'FutureBattleBot'
+password = 'tomrobey'
+showdown = '52.24.255.105.psim.us'
 
 def debug(s):
     if debug_flag:
